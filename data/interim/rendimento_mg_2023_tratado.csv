@@ -1,0 +1,854 @@
+﻿ANO,CO_MUNICIPIO,NO_MUNICIPIO,TAXA_ABANDONO_ANOS_FINAIS
+2023,3100104,Abadia dos Dourados,2.2
+2023,3100203,Abaeté,0.7
+2023,3100302,Abre Campo,1.1
+2023,3100401,Acaiaca,0.0
+2023,3100500,Açucena,1.7
+2023,3100609,Água Boa,0.5
+2023,3100708,Água Comprida,0.0
+2023,3100807,Aguanil,0.9
+2023,3100906,Águas Formosas,3.1
+2023,3101003,Águas Vermelhas,1.9
+2023,3101102,Aimorés,1.0
+2023,3101201,Aiuruoca,0.0
+2023,3101300,Alagoa,0.0
+2023,3101409,Albertina,0.6
+2023,3101508,Além Paraíba,0.9
+2023,3101607,Alfenas,2.4
+2023,3101631,Alfredo Vasconcelos,0.0
+2023,3101706,Almenara,2.4
+2023,3101805,Alpercata,1.6
+2023,3101904,Alpinópolis,0.7
+2023,3102001,Alterosa,0.5
+2023,3102050,Alto Caparaó,0.9
+2023,3102100,Alto Rio Doce,2.6
+2023,3102209,Alvarenga,4.2
+2023,3102308,Alvinópolis,2.3
+2023,3102407,Alvorada de Minas,2.7
+2023,3102506,Amparo do Serra,2.1
+2023,3102605,Andradas,1.6
+2023,3102704,Cachoeira de Pajeú,3.5
+2023,3102803,Andrelândia,3.2
+2023,3102852,Angelândia,2.0
+2023,3102902,Antônio Carlos,0.3
+2023,3103009,Antônio Dias,1.8
+2023,3103108,Antônio Prado de Minas,0.0
+2023,3103207,Araçaí,0.0
+2023,3103306,Aracitaba,5.0
+2023,3103405,Araçuaí,2.7
+2023,3103504,Araguari,0.7
+2023,3103603,Arantina,0.0
+2023,3103702,Araponga,1.1
+2023,3103751,Araporã,0.3
+2023,3103801,Arapuá,0.0
+2023,3103900,Araújos,0.8
+2023,3104007,Araxá,1.4
+2023,3104106,Arceburgo,2.4
+2023,3104205,Arcos,0.2
+2023,3104304,Areado,1.3
+2023,3104403,Argirita,0.0
+2023,3104452,Aricanduva,0.7
+2023,3104502,Arinos,0.3
+2023,3104601,Astolfo Dutra,2.0
+2023,3104700,Ataléia,1.2
+2023,3104809,Augusto de Lima,1.1
+2023,3104908,Baependi,0.5
+2023,3105004,Baldim,1.6
+2023,3105103,Bambuí,0.6
+2023,3105202,Bandeira,0.9
+2023,3105301,Bandeira do Sul,1.4
+2023,3105400,Barão de Cocais,1.1
+2023,3105509,Barão de Monte Alto,0.0
+2023,3105608,Barbacena,0.7
+2023,3105707,Barra Longa,3.4
+2023,3105905,Barroso,2.5
+2023,3106002,Bela Vista de Minas,1.1
+2023,3106101,Belmiro Braga,0.9
+2023,3106200,Belo Horizonte,1.3
+2023,3106309,Belo Oriente,0.4
+2023,3106408,Belo Vale,1.5
+2023,3106507,Berilo,0.0
+2023,3106606,Bertópolis,0.4
+2023,3106655,Berizal,2.9
+2023,3106705,Betim,0.8
+2023,3106804,Bias Fortes,0.0
+2023,3106903,Bicas,3.4
+2023,3107000,Biquinhas,3.8
+2023,3107109,Boa Esperança,1.4
+2023,3107208,Bocaina de Minas,1.8
+2023,3107307,Bocaiúva,1.4
+2023,3107406,Bom Despacho,1.8
+2023,3107505,Bom Jardim de Minas,2.2
+2023,3107604,Bom Jesus da Penha,0.0
+2023,3107703,Bom Jesus do Amparo,2.8
+2023,3107802,Bom Jesus do Galho,1.4
+2023,3107901,Bom Repouso,4.6
+2023,3108008,Bom Sucesso,0.2
+2023,3108107,Bonfim,2.1
+2023,3108206,Bonfinópolis de Minas,0.3
+2023,3108255,Bonito de Minas,1.6
+2023,3108305,Borda da Mata,1.8
+2023,3108404,Botelhos,1.2
+2023,3108503,Botumirim,0.7
+2023,3108552,Brasilândia de Minas,2.5
+2023,3108602,Brasília de Minas,1.3
+2023,3108701,Brás Pires,0.5
+2023,3108800,Braúnas,0.9
+2023,3108909,Brazópolis,2.7
+2023,3109006,Brumadinho,0.1
+2023,3109105,Bueno Brandão,2.3
+2023,3109204,Buenópolis,1.6
+2023,3109253,Bugre,0.5
+2023,3109303,Buritis,2.1
+2023,3109402,Buritizeiro,3.2
+2023,3109451,Cabeceira Grande,1.2
+2023,3109501,Cabo Verde,0.8
+2023,3109600,Cachoeira da Prata,0.0
+2023,3109709,Cachoeira de Minas,1.2
+2023,3109808,Cachoeira Dourada,0.0
+2023,3109907,Caetanópolis,1.3
+2023,3110004,Caeté,0.3
+2023,3110103,Caiana,0.9
+2023,3110202,Cajuri,0.0
+2023,3110301,Caldas,0.3
+2023,3110400,Camacho,0.0
+2023,3110509,Camanducaia,6.4
+2023,3110608,Cambuí,1.1
+2023,3110707,Cambuquira,0.0
+2023,3110806,Campanário,4.4
+2023,3110905,Campanha,2.3
+2023,3111002,Campestre,0.7
+2023,3111101,Campina Verde,0.4
+2023,3111150,Campo Azul,0.9
+2023,3111200,Campo Belo,0.6
+2023,3111309,Campo do Meio,5.9
+2023,3111408,Campo Florido,1.5
+2023,3111507,Campos Altos,2.6
+2023,3111606,Campos Gerais,2.4
+2023,3111705,Canaã,0.4
+2023,3111804,Canápolis,0.6
+2023,3111903,Cana Verde,3.5
+2023,3112000,Candeias,0.0
+2023,3112059,Cantagalo,2.0
+2023,3112109,Caparaó,1.9
+2023,3112208,Capela Nova,0.5
+2023,3112307,Capelinha,0.2
+2023,3112406,Capetinga,3.5
+2023,3112505,Capim Branco,0.4
+2023,3112604,Capinópolis,1.5
+2023,3112653,Capitão Andrade,4.7
+2023,3112703,Capitão Enéas,1.6
+2023,3112802,Capitólio,0.0
+2023,3112901,Caputira,3.6
+2023,3113008,Caraí,3.8
+2023,3113107,Caranaíba,0.6
+2023,3113206,Carandaí,0.1
+2023,3113305,Carangola,2.2
+2023,3113404,Caratinga,1.3
+2023,3113503,Carbonita,0.2
+2023,3113602,Careaçu,0.4
+2023,3113701,Carlos Chagas,2.1
+2023,3113800,Carmésia,0.0
+2023,3113909,Carmo da Cachoeira,0.8
+2023,3114006,Carmo da Mata,1.0
+2023,3114105,Carmo de Minas,2.2
+2023,3114204,Carmo do Cajuru,2.1
+2023,3114303,Carmo do Paranaíba,1.8
+2023,3114402,Carmo do Rio Claro,0.2
+2023,3114501,Carmópolis de Minas,0.8
+2023,3114550,Carneirinho,0.2
+2023,3114600,Carrancas,1.9
+2023,3114709,Carvalhópolis,1.2
+2023,3114808,Carvalhos,1.0
+2023,3114907,Casa Grande,1.8
+2023,3115003,Cascalho Rico,0.0
+2023,3115102,Cássia,2.6
+2023,3115201,Conceição da Barra de Minas,0.0
+2023,3115300,Cataguases,1.3
+2023,3115359,Catas Altas,1.6
+2023,3115409,Catas Altas da Noruega,1.9
+2023,3115458,Catuji,3.4
+2023,3115474,Catuti,0.0
+2023,3115508,Caxambu,1.8
+2023,3115607,Cedro do Abaeté,0.0
+2023,3115706,Central de Minas,0.3
+2023,3115805,Centralina,5.1
+2023,3115904,Chácara,0.0
+2023,3116001,Chalé,0.0
+2023,3116100,Chapada do Norte,0.2
+2023,3116159,Chapada Gaúcha,1.6
+2023,3116209,Chiador,0.0
+2023,3116308,Cipotânea,1.9
+2023,3116407,Claraval,0.9
+2023,3116506,Claro dos Poções,0.3
+2023,3116605,Cláudio,0.7
+2023,3116704,Coimbra,1.6
+2023,3116803,Coluna,4.4
+2023,3116902,Comendador Gomes,0.0
+2023,3117009,Comercinho,0.9
+2023,3117108,Conceição da Aparecida,3.3
+2023,3117207,Conceição das Pedras,1.5
+2023,3117306,Conceição das Alagoas,0.4
+2023,3117405,Conceição de Ipanema,1.5
+2023,3117504,Conceição do Mato Dentro,1.4
+2023,3117603,Conceição do Pará,4.9
+2023,3117702,Conceição do Rio Verde,4.5
+2023,3117801,Conceição dos Ouros,2.0
+2023,3117836,Cônego Marinho,0.2
+2023,3117876,Confins,1.2
+2023,3117900,Congonhal,1.9
+2023,3118007,Congonhas,0.4
+2023,3118106,Congonhas do Norte,2.7
+2023,3118205,Conquista,0.7
+2023,3118304,Conselheiro Lafaiete,0.9
+2023,3118403,Conselheiro Pena,3.6
+2023,3118502,Consolação,0.0
+2023,3118601,Contagem,1.1
+2023,3118700,Coqueiral,2.2
+2023,3118809,Coração de Jesus,1.2
+2023,3118908,Cordisburgo,0.0
+2023,3119005,Cordislândia,2.4
+2023,3119104,Corinto,1.4
+2023,3119203,Coroaci,1.1
+2023,3119302,Coromandel,0.5
+2023,3119401,Coronel Fabriciano,2.2
+2023,3119500,Coronel Murta,1.4
+2023,3119609,Coronel Pacheco,3.1
+2023,3119708,Coronel Xavier Chaves,0.0
+2023,3119807,Córrego Danta,0.9
+2023,3119906,Córrego do Bom Jesus,0.0
+2023,3119955,Córrego Fundo,0.4
+2023,3120003,Córrego Novo,1.2
+2023,3120102,Couto de Magalhães de Minas,0.0
+2023,3120151,Crisólita,2.6
+2023,3120201,Cristais,0.4
+2023,3120300,Cristália,0.5
+2023,3120409,Cristiano Otoni,2.5
+2023,3120508,Cristina,1.7
+2023,3120607,Crucilândia,0.0
+2023,3120706,Cruzeiro da Fortaleza,1.1
+2023,3120805,Cruzília,0.6
+2023,3120839,Cuparaque,2.6
+2023,3120870,Curral de Dentro,2.8
+2023,3120904,Curvelo,2.0
+2023,3121001,Datas,0.8
+2023,3121100,Delfim Moreira,0.2
+2023,3121209,Delfinópolis,4.5
+2023,3121258,Delta,0.0
+2023,3121308,Descoberto,0.0
+2023,3121407,Desterro de Entre Rios,0.0
+2023,3121506,Desterro do Melo,0.0
+2023,3121605,Diamantina,2.4
+2023,3121704,Diogo de Vasconcelos,1.6
+2023,3121803,Dionísio,0.0
+2023,3121902,Divinésia,1.8
+2023,3122009,Divino,2.2
+2023,3122108,Divino das Laranjeiras,0.8
+2023,3122207,Divinolândia de Minas,6.3
+2023,3122306,Divinópolis,0.3
+2023,3122355,Divisa Alegre,0.4
+2023,3122405,Divisa Nova,2.3
+2023,3122454,Divisópolis,4.3
+2023,3122470,Dom Bosco,0.0
+2023,3122504,Dom Cavati,4.2
+2023,3122603,Dom Joaquim,1.5
+2023,3122702,Dom Silvério,0.9
+2023,3122801,Dom Viçoso,1.8
+2023,3122900,Dona Euzébia,3.5
+2023,3123007,Dores de Campos,9.3
+2023,3123106,Dores de Guanhães,0.4
+2023,3123205,Dores do Indaiá,2.2
+2023,3123304,Dores do Turvo,1.2
+2023,3123403,Doresópolis,1.3
+2023,3123502,Douradoquara,0.0
+2023,3123528,Durandé,1.0
+2023,3123601,Elói Mendes,4.4
+2023,3123700,Engenheiro Caldas,3.0
+2023,3123809,Engenheiro Navarro,0.8
+2023,3123858,Entre Folhas,0.4
+2023,3123908,Entre Rios de Minas,1.1
+2023,3124005,Ervália,0.5
+2023,3124104,Esmeraldas,1.6
+2023,3124203,Espera Feliz,1.2
+2023,3124302,Espinosa,0.0
+2023,3124401,Espírito Santo do Dourado,0.7
+2023,3124500,Estiva,1.6
+2023,3124609,Estrela Dalva,4.0
+2023,3124708,Estrela do Indaiá,0.0
+2023,3124807,Estrela do Sul,0.0
+2023,3124906,Eugenópolis,1.1
+2023,3125002,Ewbank da Câmara,1.3
+2023,3125101,Extrema,0.0
+2023,3125200,Fama,0.0
+2023,3125309,Faria Lemos,1.2
+2023,3125408,Felício dos Santos,2.4
+2023,3125507,São Gonçalo do Rio Preto,0.0
+2023,3125606,Felisburgo,2.0
+2023,3125705,Felixlândia,1.4
+2023,3125804,Fernandes Tourinho,7.9
+2023,3125903,Ferros,0.2
+2023,3125952,Fervedouro,1.4
+2023,3126000,Florestal,0.3
+2023,3126109,Formiga,0.0
+2023,3126208,Formoso,2.1
+2023,3126307,Fortaleza de Minas,0.8
+2023,3126406,Fortuna de Minas,0.0
+2023,3126505,Francisco Badaró,0.3
+2023,3126604,Francisco Dumont,0.0
+2023,3126703,Francisco Sá,1.5
+2023,3126752,Franciscópolis,0.7
+2023,3126802,Frei Gaspar,5.8
+2023,3126901,Frei Inocêncio,3.6
+2023,3126950,Frei Lagonegro,2.3
+2023,3127008,Fronteira,2.0
+2023,3127057,Fronteira dos Vales,1.9
+2023,3127073,Fruta de Leite,0.9
+2023,3127107,Frutal,1.5
+2023,3127206,Funilândia,0.3
+2023,3127305,Galiléia,0.3
+2023,3127339,Gameleiras,0.7
+2023,3127354,Glaucilândia,1.2
+2023,3127370,Goiabeira,0.0
+2023,3127388,Goianá,0.9
+2023,3127404,Gonçalves,1.3
+2023,3127503,Gonzaga,1.0
+2023,3127602,Gouveia,1.1
+2023,3127701,Governador Valadares,2.3
+2023,3127800,Grão Mogol,1.5
+2023,3127909,Grupiara,0.0
+2023,3128006,Guanhães,1.9
+2023,3128105,Guapé,4.7
+2023,3128204,Guaraciaba,1.7
+2023,3128253,Guaraciama,0.4
+2023,3128303,Guaranésia,0.3
+2023,3128402,Guarani,1.1
+2023,3128501,Guarará,0.0
+2023,3128600,Guarda-Mor,2.6
+2023,3128709,Guaxupé,2.3
+2023,3128808,Guidoval,1.7
+2023,3128907,Guimarânia,1.9
+2023,3129004,Guiricema,0.0
+2023,3129103,Gurinhatã,2.3
+2023,3129202,Heliodora,2.4
+2023,3129301,Iapu,0.0
+2023,3129400,Ibertioga,0.0
+2023,3129509,Ibiá,7.4
+2023,3129608,Ibiaí,3.0
+2023,3129657,Ibiracatu,0.6
+2023,3129707,Ibiraci,2.9
+2023,3129806,Ibirité,1.7
+2023,3129905,Ibitiúra de Minas,0.6
+2023,3130002,Ibituruna,0.8
+2023,3130051,Icaraí de Minas,2.2
+2023,3130101,Igarapé,1.4
+2023,3130200,Igaratinga,2.9
+2023,3130309,Iguatama,5.2
+2023,3130408,Ijaci,1.9
+2023,3130507,Ilicínea,1.5
+2023,3130556,Imbé de Minas,1.9
+2023,3130606,Inconfidentes,1.7
+2023,3130655,Indaiabira,0.3
+2023,3130705,Indianópolis,0.0
+2023,3130804,Ingaí,4.5
+2023,3130903,Inhapim,0.5
+2023,3131000,Inhaúma,0.5
+2023,3131109,Inimutaba,2.0
+2023,3131158,Ipaba,1.9
+2023,3131208,Ipanema,0.0
+2023,3131307,Ipatinga,1.0
+2023,3131406,Ipiaçu,0.0
+2023,3131505,Ipuiúna,4.0
+2023,3131604,Iraí de Minas,1.4
+2023,3131703,Itabira,0.8
+2023,3131802,Itabirinha,0.0
+2023,3131901,Itabirito,2.3
+2023,3132008,Itacambira,0.0
+2023,3132107,Itacarambi,1.8
+2023,3132206,Itaguara,1.1
+2023,3132305,Itaipé,4.8
+2023,3132404,Itajubá,2.0
+2023,3132503,Itamarandiba,1.3
+2023,3132602,Itamarati de Minas,1.5
+2023,3132701,Itambacuri,2.8
+2023,3132800,Itambé do Mato Dentro,0.8
+2023,3132909,Itamogi,0.0
+2023,3133006,Itamonte,0.6
+2023,3133105,Itanhandu,0.5
+2023,3133204,Itanhomi,4.2
+2023,3133303,Itaobim,3.5
+2023,3133402,Itapagipe,2.5
+2023,3133501,Itapecerica,0.7
+2023,3133600,Itapeva,0.3
+2023,3133709,Itatiaiuçu,0.4
+2023,3133758,Itaú de Minas,0.4
+2023,3133808,Itaúna,0.8
+2023,3133907,Itaverava,2.9
+2023,3134004,Itinga,1.5
+2023,3134103,Itueta,0.7
+2023,3134202,Ituiutaba,0.4
+2023,3134301,Itumirim,1.7
+2023,3134400,Iturama,0.0
+2023,3134509,Itutinga,0.5
+2023,3134608,Jaboticatubas,1.1
+2023,3134707,Jacinto,5.9
+2023,3134806,Jacuí,0.5
+2023,3134905,Jacutinga,0.2
+2023,3135001,Jaguaraçu,0.7
+2023,3135050,Jaíba,2.4
+2023,3135076,Jampruca,0.0
+2023,3135100,Janaúba,1.0
+2023,3135209,Januária,2.1
+2023,3135308,Japaraíba,0.0
+2023,3135357,Japonvar,0.3
+2023,3135407,Jeceaba,0.0
+2023,3135456,Jenipapo de Minas,0.8
+2023,3135506,Jequeri,2.2
+2023,3135605,Jequitaí,2.3
+2023,3135704,Jequitibá,1.3
+2023,3135803,Jequitinhonha,2.8
+2023,3135902,Jesuânia,3.1
+2023,3136009,Joaíma,4.5
+2023,3136108,Joanésia,0.0
+2023,3136207,João Monlevade,0.6
+2023,3136306,João Pinheiro,1.4
+2023,3136405,Joaquim Felício,0.0
+2023,3136504,Jordânia,3.7
+2023,3136520,José Gonçalves de Minas,0.0
+2023,3136553,José Raydan,0.9
+2023,3136579,Josenópolis,2.6
+2023,3136603,Nova União,0.6
+2023,3136652,Juatuba,0.1
+2023,3136702,Juiz de Fora,1.2
+2023,3136801,Juramento,0.5
+2023,3136900,Juruaia,3.4
+2023,3136959,Juvenília,0.8
+2023,3137007,Ladainha,4.5
+2023,3137106,Lagamar,1.2
+2023,3137205,Lagoa da Prata,1.3
+2023,3137304,Lagoa dos Patos,2.5
+2023,3137403,Lagoa Dourada,1.7
+2023,3137502,Lagoa Formosa,4.0
+2023,3137536,Lagoa Grande,0.5
+2023,3137601,Lagoa Santa,1.3
+2023,3137700,Lajinha,2.5
+2023,3137809,Lambari,0.9
+2023,3137908,Lamim,1.0
+2023,3138005,Laranjal,0.7
+2023,3138104,Lassance,1.6
+2023,3138203,Lavras,1.1
+2023,3138302,Leandro Ferreira,0.0
+2023,3138351,Leme do Prado,0.0
+2023,3138401,Leopoldina,0.9
+2023,3138500,Liberdade,3.2
+2023,3138609,Lima Duarte,0.3
+2023,3138625,Limeira do Oeste,2.2
+2023,3138658,Lontra,0.5
+2023,3138674,Luisburgo,6.8
+2023,3138682,Luislândia,0.7
+2023,3138708,Luminárias,1.9
+2023,3138807,Luz,0.2
+2023,3138906,Machacalis,4.0
+2023,3139003,Machado,3.8
+2023,3139102,Madre de Deus de Minas,0.0
+2023,3139201,Malacacheta,1.6
+2023,3139250,Mamonas,0.0
+2023,3139300,Manga,1.7
+2023,3139409,Manhuaçu,2.4
+2023,3139508,Manhumirim,2.8
+2023,3139607,Mantena,1.3
+2023,3139706,Maravilhas,6.0
+2023,3139805,Mar de Espanha,3.0
+2023,3139904,Maria da Fé,0.3
+2023,3140001,Mariana,2.5
+2023,3140100,Marilac,0.5
+2023,3140159,Mário Campos,2.8
+2023,3140209,Maripá de Minas,0.0
+2023,3140308,Marliéria,2.8
+2023,3140407,Marmelópolis,0.0
+2023,3140506,Martinho Campos,3.3
+2023,3140530,Martins Soares,0.2
+2023,3140555,Mata Verde,1.9
+2023,3140605,Materlândia,0.4
+2023,3140704,Mateus Leme,0.8
+2023,3140803,Matias Barbosa,1.6
+2023,3140852,Matias Cardoso,3.3
+2023,3140902,Matipó,2.6
+2023,3141009,Mato Verde,0.0
+2023,3141108,Matozinhos,0.6
+2023,3141207,Matutina,4.4
+2023,3141306,Medeiros,1.0
+2023,3141405,Medina,2.7
+2023,3141504,Mendes Pimentel,0.0
+2023,3141603,Mercês,5.1
+2023,3141702,Mesquita,0.0
+2023,3141801,Minas Novas,0.8
+2023,3141900,Minduri,0.0
+2023,3142007,Mirabela,1.8
+2023,3142106,Miradouro,2.0
+2023,3142205,Miraí,2.5
+2023,3142254,Miravânia,1.9
+2023,3142304,Moeda,3.1
+2023,3142403,Moema,2.9
+2023,3142502,Monjolos,0.0
+2023,3142601,Monsenhor Paulo,0.3
+2023,3142700,Montalvânia,1.1
+2023,3142809,Monte Alegre de Minas,1.4
+2023,3142908,Monte Azul,0.1
+2023,3143005,Monte Belo,1.9
+2023,3143104,Monte Carmelo,0.3
+2023,3143153,Monte Formoso,0.0
+2023,3143203,Monte Santo de Minas,1.3
+2023,3143302,Montes Claros,0.8
+2023,3143401,Monte Sião,2.2
+2023,3143450,Montezuma,2.3
+2023,3143500,Morada Nova de Minas,4.1
+2023,3143609,Morro da Garça,0.7
+2023,3143708,Morro do Pilar,0.5
+2023,3143807,Munhoz,2.9
+2023,3143906,Muriaé,0.2
+2023,3144003,Mutum,0.6
+2023,3144102,Muzambinho,1.3
+2023,3144201,Nacip Raydan,0.0
+2023,3144300,Nanuque,1.8
+2023,3144359,Naque,0.7
+2023,3144375,Natalândia,0.0
+2023,3144409,Natércia,2.0
+2023,3144508,Nazareno,1.8
+2023,3144607,Nepomuceno,2.4
+2023,3144656,Ninheira,3.9
+2023,3144672,Nova Belém,4.3
+2023,3144706,Nova Era,1.1
+2023,3144805,Nova Lima,2.2
+2023,3144904,Nova Módica,0.9
+2023,3145000,Nova Ponte,0.1
+2023,3145059,Nova Porteirinha,0.7
+2023,3145109,Nova Resende,2.6
+2023,3145208,Nova Serrana,0.4
+2023,3145307,Novo Cruzeiro,1.7
+2023,3145356,Novo Oriente de Minas,1.2
+2023,3145372,Novorizonte,2.2
+2023,3145406,Olaria,0.8
+2023,3145455,Olhos-d'Água,0.0
+2023,3145505,Olímpio Noronha,2.5
+2023,3145604,Oliveira,0.5
+2023,3145703,Oliveira Fortes,0.0
+2023,3145802,Onça de Pitangui,0.0
+2023,3145851,Oratórios,0.7
+2023,3145877,Orizânia,3.8
+2023,3145901,Ouro Branco,2.0
+2023,3146008,Ouro Fino,0.8
+2023,3146107,Ouro Preto,0.8
+2023,3146206,Ouro Verde de Minas,3.5
+2023,3146255,Padre Carvalho,2.0
+2023,3146305,Padre Paraíso,4.8
+2023,3146404,Paineiras,1.9
+2023,3146503,Pains,0.6
+2023,3146552,Pai Pedro,0.3
+2023,3146602,Paiva,0.0
+2023,3146701,Palma,0.0
+2023,3146750,Palmópolis,1.4
+2023,3146909,Papagaios,3.6
+2023,3147006,Paracatu,1.2
+2023,3147105,Pará de Minas,1.2
+2023,3147204,Paraguaçu,3.5
+2023,3147303,Paraisópolis,1.1
+2023,3147402,Paraopeba,0.4
+2023,3147501,Passabém,3.7
+2023,3147600,Passa Quatro,1.7
+2023,3147709,Passa Tempo,2.2
+2023,3147808,Passa Vinte,1.6
+2023,3147907,Passos,1.2
+2023,3147956,Patis,0.7
+2023,3148004,Patos de Minas,1.4
+2023,3148103,Patrocínio,1.0
+2023,3148202,Patrocínio do Muriaé,2.3
+2023,3148301,Paula Cândido,0.2
+2023,3148400,Paulistas,4.1
+2023,3148509,Pavão,3.6
+2023,3148608,Peçanha,0.4
+2023,3148707,Pedra Azul,1.3
+2023,3148756,Pedra Bonita,2.0
+2023,3148806,Pedra do Anta,2.2
+2023,3148905,Pedra do Indaiá,1.0
+2023,3149002,Pedra Dourada,1.7
+2023,3149101,Pedralva,0.0
+2023,3149150,Pedras de Maria da Cruz,3.0
+2023,3149200,Pedrinópolis,0.0
+2023,3149309,Pedro Leopoldo,0.2
+2023,3149408,Pedro Teixeira,1.1
+2023,3149507,Pequeri,1.6
+2023,3149606,Pequi,2.9
+2023,3149705,Perdigão,1.3
+2023,3149804,Perdizes,0.5
+2023,3149903,Perdões,1.9
+2023,3149952,Periquito,0.8
+2023,3150000,Pescador,0.4
+2023,3150109,Piau,2.3
+2023,3150158,Piedade de Caratinga,1.8
+2023,3150208,Piedade de Ponte Nova,2.1
+2023,3150307,Piedade do Rio Grande,2.0
+2023,3150406,Piedade dos Gerais,3.5
+2023,3150505,Pimenta,2.0
+2023,3150539,Pingo-d'Água,2.5
+2023,3150570,Pintópolis,2.4
+2023,3150604,Piracema,0.7
+2023,3150703,Pirajuba,1.9
+2023,3150802,Piranga,1.0
+2023,3150901,Piranguçu,0.8
+2023,3151008,Piranguinho,2.2
+2023,3151107,Pirapetinga,0.2
+2023,3151206,Pirapora,1.7
+2023,3151305,Piraúba,2.9
+2023,3151404,Pitangui,1.2
+2023,3151503,Piumhi,1.1
+2023,3151602,Planura,4.2
+2023,3151701,Poço Fundo,0.6
+2023,3151800,Poços de Caldas,1.5
+2023,3151909,Pocrane,0.7
+2023,3152006,Pompéu,2.5
+2023,3152105,Ponte Nova,2.0
+2023,3152131,Ponto Chique,1.6
+2023,3152170,Ponto dos Volantes,0.6
+2023,3152204,Porteirinha,0.6
+2023,3152303,Porto Firme,1.4
+2023,3152402,Poté,2.1
+2023,3152501,Pouso Alegre,1.9
+2023,3152600,Pouso Alto,3.0
+2023,3152709,Prados,0.8
+2023,3152808,Prata,1.9
+2023,3152907,Pratápolis,3.4
+2023,3153004,Pratinha,2.5
+2023,3153103,Presidente Bernardes,0.7
+2023,3153202,Presidente Juscelino,1.7
+2023,3153301,Presidente Kubitschek,0.0
+2023,3153400,Presidente Olegário,0.9
+2023,3153509,Alto Jequitibá,5.2
+2023,3153608,Prudente de Morais,1.9
+2023,3153707,Quartel Geral,2.4
+2023,3153806,Queluzito,1.5
+2023,3153905,Raposos,0.5
+2023,3154002,Raul Soares,0.2
+2023,3154101,Recreio,0.0
+2023,3154150,Reduto,3.3
+2023,3154200,Resende Costa,2.5
+2023,3154309,Resplendor,1.3
+2023,3154408,Ressaquinha,0.0
+2023,3154457,Riachinho,0.7
+2023,3154507,Riacho dos Machados,0.2
+2023,3154606,Ribeirão das Neves,1.7
+2023,3154705,Ribeirão Vermelho,0.6
+2023,3154804,Rio Acima,1.3
+2023,3154903,Rio Casca,0.5
+2023,3155009,Rio Doce,2.3
+2023,3155108,Rio do Prado,0.6
+2023,3155207,Rio Espera,0.0
+2023,3155306,Rio Manso,0.8
+2023,3155405,Rio Novo,7.0
+2023,3155504,Rio Paranaíba,1.5
+2023,3155603,Rio Pardo de Minas,0.6
+2023,3155702,Rio Piracicaba,0.0
+2023,3155801,Rio Pomba,2.3
+2023,3155900,Rio Preto,0.0
+2023,3156007,Rio Vermelho,1.6
+2023,3156106,Ritápolis,1.4
+2023,3156205,Rochedo de Minas,2.2
+2023,3156304,Rodeiro,1.0
+2023,3156403,Romaria,0.0
+2023,3156452,Rosário da Limeira,0.0
+2023,3156502,Rubelita,0.6
+2023,3156601,Rubim,0.0
+2023,3156700,Sabará,1.2
+2023,3156809,Sabinópolis,0.9
+2023,3156908,Sacramento,2.0
+2023,3157005,Salinas,1.1
+2023,3157104,Salto da Divisa,2.6
+2023,3157203,Santa Bárbara,1.2
+2023,3157252,Santa Bárbara do Leste,3.3
+2023,3157278,Santa Bárbara do Monte Verde,2.2
+2023,3157302,Santa Bárbara do Tugúrio,0.0
+2023,3157336,Santa Cruz de Minas,6.5
+2023,3157377,Santa Cruz de Salinas,0.0
+2023,3157401,Santa Cruz do Escalvado,0.5
+2023,3157500,Santa Efigênia de Minas,5.1
+2023,3157609,Santa Fé de Minas,1.1
+2023,3157658,Santa Helena de Minas,2.8
+2023,3157708,Santa Juliana,7.0
+2023,3157807,Santa Luzia,1.7
+2023,3157906,Santa Margarida,4.8
+2023,3158003,Santa Maria de Itabira,0.0
+2023,3158102,Santa Maria do Salto,2.4
+2023,3158201,Santa Maria do Suaçuí,2.4
+2023,3158300,Santana da Vargem,0.9
+2023,3158409,Santana de Cataguases,1.6
+2023,3158508,Santana de Pirapama,0.6
+2023,3158607,Santana do Deserto,5.5
+2023,3158706,Santana do Garambéu,0.9
+2023,3158805,Santana do Jacaré,1.1
+2023,3158904,Santana do Manhuaçu,4.0
+2023,3158953,Santana do Paraíso,1.4
+2023,3159001,Santana do Riacho,0.3
+2023,3159100,Santana dos Montes,0.0
+2023,3159209,Santa Rita de Caldas,0.6
+2023,3159308,Santa Rita de Jacutinga,0.0
+2023,3159357,Santa Rita de Minas,1.5
+2023,3159407,Santa Rita de Ibitipoca,1.1
+2023,3159506,Santa Rita do Itueto,0.3
+2023,3159605,Santa Rita do Sapucaí,0.4
+2023,3159704,Santa Rosa da Serra,1.0
+2023,3159803,Santa Vitória,0.4
+2023,3159902,Santo Antônio do Amparo,0.3
+2023,3160009,Santo Antônio do Aventureiro,1.0
+2023,3160108,Santo Antônio do Grama,0.5
+2023,3160207,Santo Antônio do Itambé,1.7
+2023,3160306,Santo Antônio do Jacinto,3.5
+2023,3160405,Santo Antônio do Monte,1.5
+2023,3160454,Santo Antônio do Retiro,0.0
+2023,3160504,Santo Antônio do Rio Abaixo,0.0
+2023,3160603,Santo Hipólito,0.0
+2023,3160702,Santos Dumont,0.8
+2023,3160801,São Bento Abade,3.0
+2023,3160900,São Brás do Suaçuí,0.9
+2023,3160959,São Domingos das Dores,0.5
+2023,3161007,São Domingos do Prata,0.5
+2023,3161056,São Félix de Minas,1.7
+2023,3161106,São Francisco,0.8
+2023,3161205,São Francisco de Paula,0.8
+2023,3161304,São Francisco de Sales,0.3
+2023,3161403,São Francisco do Glória,0.0
+2023,3161502,São Geraldo,0.7
+2023,3161601,São Geraldo da Piedade,0.4
+2023,3161650,São Geraldo do Baixio,2.7
+2023,3161700,São Gonçalo do Abaeté,0.0
+2023,3161809,São Gonçalo do Pará,0.0
+2023,3161908,São Gonçalo do Rio Abaixo,1.7
+2023,3162005,São Gonçalo do Sapucaí,1.1
+2023,3162104,São Gotardo,3.0
+2023,3162203,São João Batista do Glória,1.2
+2023,3162252,São João da Lagoa,1.6
+2023,3162302,São João da Mata,1.2
+2023,3162401,São João da Ponte,1.4
+2023,3162450,São João das Missões,4.9
+2023,3162500,São João del Rei,1.4
+2023,3162559,São João do Manhuaçu,3.9
+2023,3162575,São João do Manteninha,2.5
+2023,3162609,São João do Oriente,1.8
+2023,3162658,São João do Pacuí,0.8
+2023,3162708,São João do Paraíso,0.4
+2023,3162807,São João Evangelista,0.5
+2023,3162906,São João Nepomuceno,1.5
+2023,3162922,São Joaquim de Bicas,0.8
+2023,3162948,São José da Barra,0.5
+2023,3162955,São José da Lapa,0.6
+2023,3163003,São José da Safira,4.9
+2023,3163102,São José da Varginha,0.9
+2023,3163201,São José do Alegre,0.4
+2023,3163300,São José do Divino,2.2
+2023,3163409,São José do Goiabal,0.0
+2023,3163508,São José do Jacuri,0.0
+2023,3163607,São José do Mantimento,0.6
+2023,3163706,São Lourenço,0.8
+2023,3163805,São Miguel do Anta,0.0
+2023,3163904,São Pedro da União,0.4
+2023,3164001,São Pedro dos Ferros,1.9
+2023,3164100,São Pedro do Suaçuí,0.8
+2023,3164209,São Romão,0.6
+2023,3164308,São Roque de Minas,0.0
+2023,3164407,São Sebastião da Bela Vista,0.0
+2023,3164431,São Sebastião da Vargem Alegre,0.9
+2023,3164472,São Sebastião do Anta,0.0
+2023,3164506,São Sebastião do Maranhão,1.8
+2023,3164605,São Sebastião do Oeste,0.0
+2023,3164704,São Sebastião do Paraíso,0.8
+2023,3164803,São Sebastião do Rio Preto,0.0
+2023,3164902,São Sebastião do Rio Verde,0.7
+2023,3165008,São Tiago,2.1
+2023,3165107,São Tomás de Aquino,6.8
+2023,3165206,São Tomé das Letras,0.7
+2023,3165305,São Vicente de Minas,2.2
+2023,3165404,Sapucaí-Mirim,0.0
+2023,3165503,Sardoá,0.3
+2023,3165537,Sarzedo,2.0
+2023,3165552,Setubinha,2.1
+2023,3165560,Sem-Peixe,0.0
+2023,3165578,Senador Amaral,4.5
+2023,3165602,Senador Cortes,0.7
+2023,3165701,Senador Firmino,0.0
+2023,3165800,Senador José Bento,0.0
+2023,3165909,Senador Modestino Gonçalves,0.0
+2023,3166006,Senhora de Oliveira,1.6
+2023,3166105,Senhora do Porto,2.1
+2023,3166204,Senhora dos Remédios,0.2
+2023,3166303,Sericita,2.7
+2023,3166402,Seritinga,0.0
+2023,3166501,Serra Azul de Minas,1.8
+2023,3166600,Serra da Saudade,0.0
+2023,3166709,Serra dos Aimorés,0.8
+2023,3166808,Serra do Salitre,0.6
+2023,3166907,Serrania,1.9
+2023,3166956,Serranópolis de Minas,1.8
+2023,3167004,Serranos,1.2
+2023,3167103,Serro,0.7
+2023,3167202,Sete Lagoas,1.3
+2023,3167301,Silveirânia,1.8
+2023,3167400,Silvianópolis,0.8
+2023,3167509,Simão Pereira,0.9
+2023,3167608,Simonésia,3.4
+2023,3167707,Sobrália,1.1
+2023,3167806,Soledade de Minas,0.0
+2023,3167905,Tabuleiro,5.2
+2023,3168002,Taiobeiras,0.9
+2023,3168051,Taparuba,0.0
+2023,3168101,Tapira,0.7
+2023,3168200,Tapiraí,0.0
+2023,3168309,Taquaraçu de Minas,0.0
+2023,3168408,Tarumirim,2.3
+2023,3168507,Teixeiras,0.5
+2023,3168606,Teófilo Otoni,2.0
+2023,3168705,Timóteo,1.3
+2023,3168804,Tiradentes,4.8
+2023,3168903,Tiros,7.3
+2023,3169000,Tocantins,0.5
+2023,3169059,Tocos do Moji,0.0
+2023,3169109,Toledo,2.5
+2023,3169208,Tombos,0.0
+2023,3169307,Três Corações,2.9
+2023,3169356,Três Marias,0.8
+2023,3169406,Três Pontas,2.1
+2023,3169505,Tumiritinga,0.3
+2023,3169604,Tupaciguara,1.0
+2023,3169703,Turmalina,0.5
+2023,3169802,Turvolândia,4.1
+2023,3169901,Ubá,0.4
+2023,3170008,Ubaí,3.8
+2023,3170057,Ubaporanga,1.9
+2023,3170107,Uberaba,1.1
+2023,3170206,Uberlândia,1.3
+2023,3170305,Umburatiba,2.3
+2023,3170404,Unaí,0.6
+2023,3170438,União de Minas,3.2
+2023,3170479,Uruana de Minas,0.5
+2023,3170503,Urucânia,4.2
+2023,3170529,Urucuia,2.8
+2023,3170578,Vargem Alegre,1.9
+2023,3170602,Vargem Bonita,0.8
+2023,3170651,Vargem Grande do Rio Pardo,0.0
+2023,3170701,Varginha,2.0
+2023,3170750,Varjão de Minas,2.6
+2023,3170800,Várzea da Palma,2.1
+2023,3170909,Varzelândia,1.2
+2023,3171006,Vazante,0.5
+2023,3171030,Verdelândia,0.2
+2023,3171071,Veredinha,0.4
+2023,3171105,Veríssimo,0.0
+2023,3171154,Vermelho Novo,1.0
+2023,3171204,Vespasiano,0.9
+2023,3171303,Viçosa,1.6
+2023,3171402,Vieiras,0.0
+2023,3171501,Mathias Lobato,0.0
+2023,3171600,Virgem da Lapa,0.3
+2023,3171709,Virgínia,1.1
+2023,3171808,Virginópolis,2.2
+2023,3171907,Virgolândia,0.0
+2023,3172004,Visconde do Rio Branco,1.7
+2023,3172103,Volta Grande,0.0
+2023,3172202,Wenceslau Braz,0.0
